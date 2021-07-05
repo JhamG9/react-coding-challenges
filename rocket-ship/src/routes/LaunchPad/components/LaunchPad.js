@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ClassRocket, FunctionalRocket } from './Rocket';
+import { ClassRocket } from './Rocket';
 import '../styles/_launchpad.scss';
 
 export default function LaunchPad() {
